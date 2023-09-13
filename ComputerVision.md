@@ -1,0 +1,1 @@
+Computer Vision is the way of teaching intelligence to machines and making them see things just like humans.
